@@ -9,8 +9,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Motor-Microservice</name>
-	<description>Motor Microservice</description>
+	<name>MotorMS</name>
+	<description>MotorMS</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
