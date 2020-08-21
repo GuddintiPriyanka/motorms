@@ -23,6 +23,12 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<properties>
+  <sonar.projectKey>GuddintiPriyanka_motorms</sonar.projectKey>
+  <sonar.organization>guddintipriyanka</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+			<sonar.login>1e7c733757d9f745d1b9faef9381870497b7eaa3</sonar.login>
+</properties>
 	</properties>
 <dependencyManagement>
 		<dependencies>
